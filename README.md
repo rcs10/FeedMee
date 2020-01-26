@@ -1,3 +1,3 @@
-# AndroidTfLiteCameraX
+# FeedMee
 
-Uses a MobileNet Model for Image Classification with CameraX and GPU Delegate
+Created an AndroidApp to suggest recipies that are possible by detecting the vegetables available. Built during Hackverse 2020.
